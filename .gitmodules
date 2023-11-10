@@ -1,0 +1,9 @@
+[submodule "quarkus-argo-gitops"]
+	path = quarkus-argo-gitops
+	url = git@github.com:CCH0124/quarkus-argo-gitops.git
+[submodule "argocd-gitops-manifest"]
+	path = argocd-gitops-manifest
+	url = git@github.com:CCH0124/argocd-gitops-manifest.git
+[submodule "helm-charts"]
+	path = helm-charts
+	url = git@github.com:CCH0124/helm-charts.git
